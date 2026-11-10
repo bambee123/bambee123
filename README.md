@@ -1,14 +1,12 @@
-Hi, I'm Basma! 
+Hi, I'm Basma Selfate 
 
 Full-Stack Web Developer | React.js & Django
 
-I'm a software engineering graduate based in Morocco 🇲🇦, passionate about building modern web applications and solving real-world problems through technology.
+I'm a software engineering professional based in Morocco 🇲🇦, passionate about building modern web applications and solving real-world problems through technology.
 
-I specialize in frontend and backend development, creating responsive interfaces, REST APIs, and database-driven applications.
+ Technical Skills
 
-   Tech Stack
-
-Frontend: React.js, JavaScript, HTML5, CSS3
+Frontend: React.js, JavaScript, HTML5, CSS3 , Angular
 
 Backend: Python, Django, Django REST Framework
 
@@ -16,34 +14,40 @@ Database: PostgreSQL
 
 Tools: Git, GitHub, VS Code, Postman
 
-   Projects
+ Featured Projects
 
 Recruitment Management Platform
 
-A full-stack recruitment application featuring candidate management, CV processing, and recruitment dashboards.
+Full-stack recruitment application.
+
+Candidate management and CV processing.
+
+Recruitment workflows and dashboards.
 
 Agile Feedback
 
-A software development project — details coming soon.
+Project under review.
 
-   What I Can Build
+More technical details coming soon.
 
-Responsive business websites
+ What I Do
 
-React frontend applications
+Responsive website development
 
-Django REST APIs
+React frontend development
+
+Django backend development
+
+REST API development
+
+Database integration
 
 Full-stack web applications
 
-Admin dashboards and management systems
+ Let's Connect
 
-   Let's Connect
-
-I'm based in Morocco and available for remote freelance opportunities.
-
-Portfolio: Coming soon
+Based in Morocco 🇲🇦 | Open to remote opportunities.
 
 GitHub: https://github.com/bambee123
 
-Always learning, building, and improving.
+Building, learning, and improving every day.
